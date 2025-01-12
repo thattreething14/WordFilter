@@ -1,0 +1,4 @@
+replacements:
+  # Format is if you want to replace Poopcamel with NIGGER than do Poopcamel: NIGGER
+  poopcamel: notpoopcamel
+  test: example

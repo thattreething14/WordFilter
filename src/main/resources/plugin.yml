@@ -1,0 +1,4 @@
+name: WordFilter
+version: '${version}'
+main: poopcamel.wordfilter.WordFilter
+api-version: '1.20'
